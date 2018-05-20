@@ -1,0 +1,41 @@
+What problem are we solving,
+
+# copy right Intellectual proverpy in music industry
+
+who is benefiting from this ?
+
+Estabilised Musicians 
+
+Producers
+
+New Comers
+
+
+Phase 1
+
+- Desigend Simple Website
+
+- Working Rest API
+
+- Ability to upload and download video and audio file
+
+  #Users
+
+   users subscription
+
+   musicians sign up
+
+   musician to manage thier property
+
+   users searching for files
+
+  #Tools
+
+  -Github
+  -Trello (SCRUM)
+
+
+
+
+
+
