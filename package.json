@@ -1,0 +1,26 @@
+{
+  "name": "myplay",
+  "version": "1.0.0",
+  "description": "A music streaming application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Immauel/MyPlay.git"
+  },
+  "author": "Immanuel Fransiskus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Immauel/MyPlay/issues"
+  },
+  "homepage": "https://github.com/Immauel/MyPlay#readme",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.1.2"
+  }
+}
